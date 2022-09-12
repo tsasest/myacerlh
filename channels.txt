@@ -23,6 +23,8 @@ http://127.0.0.1:6878/ace/getstream?id=5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 http://127.0.0.1:6878/ace/getstream?id=e3f3ffd375d2d22c09731a0a8f400581cced1401
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=af31fdaed4577336a29bd5e34ab5e192e593db29
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1_720               
+http://127.0.0.1:6878/ace/getstream?id=e9f50fad564883fbdac4beeb919e56ebbbe01daf
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN2
@@ -141,10 +143,10 @@ http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 http://127.0.0.1:6878/ace/getstream?id=40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1                      
-http://127.0.0.1:6878/ace/getstream?id=38db5f8136dc998f184ce63df85f057ee302e7be
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2                     
 http://127.0.0.1:6878/ace/getstream?id=c9c54cd841f6b772a156a0b21bbbf834329d15d4
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1                      
+http://127.0.0.1:6878/ace/getstream?id=38db5f8136dc998f184ce63df85f057ee302e7be
 #EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,NATIONAL GEOGRAPHIC HD
 http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 #EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,CANAL HISTORIA
@@ -189,5 +191,3 @@ http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1
-http://127.0.0.1:6878/ace/getstream?id=e9f50fad564883fbdac4beeb919e56ebbbe01daf
