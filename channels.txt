@@ -23,8 +23,6 @@ http://127.0.0.1:6878/ace/getstream?id=5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 http://127.0.0.1:6878/ace/getstream?id=e3f3ffd375d2d22c09731a0a8f400581cced1401
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=af31fdaed4577336a29bd5e34ab5e192e593db29
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1_720               
-http://127.0.0.1:6878/ace/getstream?id=e9f50fad564883fbdac4beeb919e56ebbbe01daf
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN2
@@ -191,5 +189,5 @@ http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UNTITLED CHANNEL
-http://127.0.0.1:6878/ace/getstream?id=PRUEBAc9c54cd841f6b772a156a0b21bbbf834329d15d4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1
+http://127.0.0.1:6878/ace/getstream?id=e9f50fad564883fbdac4beeb919e56ebbbe01daf
