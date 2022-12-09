@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial UHD
+http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1080
 http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 #EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 720
@@ -21,10 +23,6 @@ http://127.0.0.1:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 http://127.0.0.1:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
-http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
-http://127.0.0.1:6878/ace/getstream?id=af31fdaed4577336a29bd5e34ab5e192e593db29
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn1_720 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
