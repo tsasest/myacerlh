@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial 2 HD" tvg-logo="https://i.imgur.com/0bY08r4.png" ,Gol Mundial UHD 2
+http://127.0.0.1:6878/ace/getstream?id=d6c14a13579a5c908bb14169d8787b9955f05b20
 #EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial UHD
 http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1080
@@ -127,8 +129,6 @@ http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1                      
 http://127.0.0.1:6878/ace/getstream?id=38db5f8136dc998f184ce63df85f057ee302e7be
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2                     
-http://127.0.0.1:6878/ace/getstream?id=c9c54cd841f6b772a156a0b21bbbf834329d15d4
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn LaLiga multiaudio
 http://127.0.0.1:6878/ace/getstream?id=acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio
