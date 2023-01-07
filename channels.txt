@@ -5,10 +5,6 @@ http://127.0.0.1:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 http://127.0.0.1:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Fórmula 1)
-http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
-http://127.0.0.1:6878/ace/getstream?id=af31fdaed4577336a29bd5e34ab5e192e593db29
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -29,6 +25,12 @@ http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
 http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.Liga 1080 Multiaudio
+http://127.0.0.1:6878/ace/getstream?id=acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.Liga 1080 Multiaudio
+http://127.0.0.1:6878/ace/getstream?id=acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.Liga 720 
+http://127.0.0.1:6878/ace/getstream?id=acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 720
@@ -113,6 +115,8 @@ http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn liga 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k pruebas
 http://127.0.0.1:6878/ace/getstream?id=440e15375a76b0245ee07873dae1681f8c6d83cb
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
@@ -155,5 +159,3 @@ http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1
-http://127.0.0.1:6878/ace/getstream?id=e9f50fad564883fbdac4beeb919e56ebbbe01daf
