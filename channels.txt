@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD --> NEW ERA II
 acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA II
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 Hp" group-title="DAZN", DAZN 1 FHD --> NEW ERA II
 acestream://ef1e0c8799b331efe144a91317e35b064c54ec0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA II
 acestream://d08f78bd69c9c5cd927c4431632660bb9994727c
