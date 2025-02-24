@@ -1,226 +1,372 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 720 (Fórmula 1)
+268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080P
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080 MultiAudio
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080 MultiAudio
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 720
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 2 1080
-acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 2 720
-acestream://f31a586422c9244196c810c84b6c85da350318a5
+f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 3 1080
-acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 3 720
-acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1, group-title="Elcano.top",M. LaLiga 4 1080
-acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
+68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1, group-title="Elcano.top",La Liga BAR 1080
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
-acestream://110d441ddc9713a7452588770d2bc85504672f47
+110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 720
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 2 1080 MultiAudio
-acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 2 720 MultiAudio
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 1080
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 720
-acestream://121f719ebb94193c6086ef92865cf9b197750980
+121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 2 1080
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 2 720
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 3
-acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1, group-title="Elcano.top",#VAMOS ELLAS  FHD por Tronoss
-acestream://f317a4fef0b96caabaaad25cadb5f45303544767
-#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD (SAT) por Tronoss
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD por Adrián
-acestream://472b73d3c63fe53c3a95644f20aab65b31a6e506
-#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD por Tronoss
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-#EXTINF:-1, group-title="Elcano.top",ANTENA 3 FHD por Tronoss
-acestream://a6cfb25becd96cbe9d1929e0e560016beac40887
-#EXTINF:-1, group-title="Elcano.top",CUATRO FHD por Tronoss
-acestream://de6527833ce8e62aa0af3e64891e6e1f250726e0
-#EXTINF:-1, group-title="Elcano.top",DAZN 1 BAR FHD por Tronoss
-acestream://0908f5dd264ded10b638636cb7479409cfee0813
-#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD (SAT) por Tronoss
-acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD por Tronoss
-acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1, group-title="Elcano.top",DAZN 2 BAR FHD por Tronoss
-acestream://17dc260a6b6c176183807e659817b647ddca465b
-#EXTINF:-1, group-title="Elcano.top",DAZN 2 FHD por Tronoss
-acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1, group-title="Elcano.top",DAZN 3 FHD por Tronoss
-acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72
-#EXTINF:-1, group-title="Elcano.top",DAZN 4 FHD por Tronoss
-acestream://ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
-#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 1 FHD por Tronoss
-acestream://4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d
-#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 2 FHD por Tronoss
-acestream://f67f95bcb185c3d62d532425709908be86bd442c
-#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 3 FHD por Tronoss
-acestream://2c3e87e1aed5285c9a06d74cd29132c0f7520c09
-#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 1 por Tronoss
-acestream://413ee8ca35110147e6644e7c3eed37eff46ba222
-#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 2 por Tronoss
-acestream://e58b91034d2b9521de2ad91077f8dc565dcdb97b
-#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 3 por Tronoss
-acestream://ea00d98ceb524da4ef7f2f0733661dbb31e48f7b
-#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD (SAT) por Tronoss
-acestream://37875b8c4e71b3daca16e03070968e0f6344ba4c
-#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD por Adrián
-acestream://1b8069f8c8cb18d565c1c776b6620bbed32b789c
-#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD por Tronoss
-acestream://e41352c657506cfe6eecc4f17982f69275f1660b
-#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA 2 FHD por Tronoss
-acestream://c79b272e20f31d1be9103f582e87209a06a63927
-#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD (SAT) por Tronoss
-acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
-#EXTINF:-1, group-title="Elcano.top",DAZN LIGA FHD por Tronoss
-acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
-#EXTINF:-1, group-title="Elcano.top",EUROSPORT 1 FHD por Tronoss
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1, group-title="Elcano.top",EUROSPORT 2 FHD por Tronoss
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-#EXTINF:-1, group-title="Elcano.top",EUROSPORT UHD por Tronoss
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1, group-title="Elcano.top",F1 TV 14 | Fernando Alonso | Aston Martin por Tronoss
-acestream://e25d7b28f6858aeda8fdc5928f186ab11f1d6b0c
-#EXTINF:-1, group-title="Elcano.top",F1 TV 55 | Carlos Sainz | Williams por Tronoss
-acestream://acf763bf9127ad753fa61227a3565e6557467354
-#EXTINF:-1, group-title="Elcano.top",Gol Play FHD por Tronoss
-acestream://f5be5fe6063db01a7587c37acf57fcadabea560a
-#EXTINF:-1, group-title="Elcano.top",LA 1 FHD por Tronoss
-acestream://71abebf150324106df1d9dc25e34dd8840217835
-#EXTINF:-1, group-title="Elcano.top",LA 2 FHD por Tronoss
-acestream://d27e23deffb2314a9549b00d62fade1e2e38ed60
-#EXTINF:-1, group-title="Elcano.top",LA SEXTA FHD por Tronoss
-acestream://906191eed84a42d83939fd150ee3c04834bc0533
-#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV 3 FHD de Tronoss
-acestream://f93741dc38bac456018fe9906a4689c2c6405716
-#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV FHD de Tronoss
-acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
-#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV2 HD de Tronoss
-acestream://7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a
-#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV4 FHD de Tronoss
-acestream://9bbbaec25775a0c47b07ceb547fe5e017c169729
-#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV5 FHD de Tronoss
-acestream://8656b8874dbb8f52911ca0ad6e1e3d177526508f
-#EXTINF:-1, group-title="Elcano.top",M+ ACCION FHD por Tronoss
-acestream://2d904318a20e89de0f6540f3e8c210e1376d5e51
-#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 2 FHD por Tronoss
-acestream://43931a2672086891ce4f6d6b4128e005e8038959
-#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 3 FHD  por Tronoss
-acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 4 FHD por Tronoss
-acestream://f36a4e0ef1fbd63757130284e9a6c3b7c212a421
-#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 5 HD por Tronoss
-acestream://34b38986ac5e6e842f954f0dd25b2798be70b276
-#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD por Tronoss
-acestream://ce65932b1113ec32c270050786d7702897150d74
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 10 FHD por Tronoss
-acestream://64954ce664a3f68e271aee5f83094a19fac4416b
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 11 FHD por Tronoss
-acestream://bb5e72b45383cb4d02e6f414f9119bb5d6386b9e
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 12 FHD por Tronoss
-acestream://6739e6aa99e81f0ed1cecb88c5f1ab1dd9dd3fa8
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 13 FHD por Tronoss
-acestream://30449c4944faf74a675392b292661dc4988e7798
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 14 SD por Tronoss
-acestream://b149283faf12a9e574380c7ad1eb227261eaca85
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 15 SD por Tronoss
-acestream://bb8506403e19f80ab66e431f2a4c74089a909d06
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 16 SD por Tronoss
-acestream://5a412fd44a1f46f3446988ddeed658d861dd6b70
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 17 SD por Tronoss
-acestream://be4381d1d5203fc0c4879a097277bd7683235650
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD por Adrián
-acestream://1b16e6969c9170273cf7e08abe0b919db3e9351f
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD por Tronoss
-acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 UHD por Tronoss
-acestream://8e4ab34c7fe491831734bc677b7bf91555653eb3
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD por Tronoss
-acestream://e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 4 FHD por Tronoss
-acestream://01152274037c5f7155489e0a977cbde71a61290c
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 5 FHD por Tronoss
-acestream://cc910aee690f70190b04920d61e39da5a6d0a057
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 6 FHD por Tronoss
-acestream://a5fab130ebf491c04d8c0dcd2adce9babcd39e69
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 7 FHD por Tronoss
-acestream://1987ec4c561f7e47a1d02a8de1665f71934406b3
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 8 FHD por Tronoss
-acestream://834ffb208d132aeb78c4b13209af71be7ec578c6
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 9 FHD por Tronoss
-acestream://6d69b67507dda888dadb5ea9df951249b73ca00c
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (SAT) por Tronoss
-acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD por Adrián
-acestream://c9c6e562d63019f283415540827c7bce5704f54d
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD por Tronoss
-acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
-#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD por Tronoss
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 2 FHD por Tronoss
-acestream://aeb4beec9a3639f1bed7bd56a20f3afe7186cae3
-#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 3 FHD por Tronoss
-acestream://bfa4d2ce53fd25488828a3a1070cd7d194b265af
-#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD (SAT) por Tronoss
-acestream://b8370220a0338f9eb4728467111a2bce1033b80b
-#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD por Tronoss
-acestream://f5fcacb60627d6319b89942391e441d179dbb9d9
-#EXTINF:-1, group-title="Elcano.top",M+ LaLiga UHD por Tronoss
-acestream://63b976bbf9bbd0c37117880b8b33702b95357ef3
-#EXTINF:-1, group-title="Elcano.top",M+ PLUS 2 FHD por Tronoss
-acestream://70c25bf1843b81356d62ebffbba267be60066659
-#EXTINF:-1, group-title="Elcano.top",M+ PLUS FHD por Tronoss
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (SAT) por Tronoss
-acestream://894afd347da576af7bbfc0b986485581b8df151b
-#EXTINF:-1, group-title="Elcano.top",M+ Super Copa por Tronoss
-acestream://6118cada4cbe7650eeb21d170e184c26a4cdc808
-#EXTINF:-1, group-title="Elcano.top",M+ SuperCopa del Rey FHD por Tronoss
-acestream://d282167ec84abdb4f5ed4c4856ea4284ac00991f
-#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 1 por Tronoss
-acestream://a5cf46320fe405803a6304c2ea764313351b0158
-#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 2 por Tronoss
-acestream://2adc28203c35993aa9bccd2e1e5b0015ec0c878b
-#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 3 por Tronoss
-acestream://7a8c76faf27e39efd0535de43fb11d18e1ef043b
-#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 4 por Tronoss
-acestream://a98becd43a2e6ec6a643cb12851d31203756bba5
-#EXTINF:-1, group-title="Elcano.top",MOVISTAR CLASICOS FHD por Tronoss
-acestream://26c63851b7a0de9efed907571b19d342fc8d6765
-#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF 2 FHD por Tronoss
-acestream://11078aceacd1be758f4c953a437fc1ecb8eca730
-#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF FHD por Tronoss
-acestream://e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
-#EXTINF:-1, group-title="Elcano.top",MOVISTAR SERIES FHD por Tronoss
-acestream://14767834db41c572ab83b80f7eadc3ba78a2ced0
-#EXTINF:-1, group-title="Elcano.top",NBA NETWORK por Tronoss
-acestream://8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
-#EXTINF:-1, group-title="Elcano.top",NBA TV por Tronoss
-acestream://7146e467aee3cb0bcdc286b39a3022c992428f01
-#EXTINF:-1, group-title="Elcano.top",TELECINCO FHD por Tronoss
-acestream://e53c497c3a56968bc11fa3771c813fc740e355e3
-#EXTINF:-1, group-title="Elcano.top",Teledeporte FHD por Tronoss
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1, group-title="Elcano.top",UFC Fight Pass por Tronoss
-acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
-#EXTINF:-1, group-title="Elcano.top",RALLY TV por CERBERUS
-acestream://1a9085a7b8aa402f317fb86f7243f3736770b325
+fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD --> NEW ERA II
+738adb299639088132d0680b168e30c357f28866
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD --> NEW ERA II
+66a0863d19f7caa2591a36f2bce86b1878a3d0e3
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD --> NEW ERA II
+092612609be34a8e9ee61311c5dfc8561c009ccc
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD --> NEW ERA II
+dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD --> NEW ERA II
+9d0e983a628a79ec63ae599d2abc8b787e43aa68
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD --> NEW ERA II
+d2952671bfd36490c2c51a5efaefb8b263bc7702
+#EXTINF:-1, group-title="Elcano.top",LaLiga TV BAR FHD --> NEW ERA II
+18d34608187b84b2ef8b5bbaa075305b247bfb5d
+#EXTINF:-1, group-title="Elcano.top",M.L. CAMPEONES 2
+abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR PLUS
+56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES
+55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES
+3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 2
+d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 3
+571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 4
+b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 5
+fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 6
+cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 7
+070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1, group-title="Elcano.top",DAZN 1
+35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2
+ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2
+a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1, group-title="Elcano.top",M #VAMOS
+d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1, group-title="Elcano.top",M #VAMOS
+12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1, group-title="Elcano.top",EuroSport
+16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1, group-title="Elcano.top",Copa del Rey
+b51f2d9a15b6956a44385b6be531bcabeb099d9d
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD (SATT) --> NEW ERA
+b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1, group-title="Elcano.top",DAZN LIGA FHD --> NEW ERA
+711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA 2 FHD --> NEW ERA
+4b38a91cc7ca46748fef4743ac0b5d193a701f8c
+#EXTINF:-1, group-title="Elcano.top",DAZN BAR 1 FHD --> NEW ERA
+5cadba9736e0ecc0c0051e07f2339aeaa474e486
+#EXTINF:-1, group-title="Elcano.top",DAZN BAR 2 FHD --> NEW ERA
+d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD (SAT) --> NEW ERA
+dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1, group-title="Elcano.top",F1 TV 14 | Fernando Alonso | Aston Martin --> NEW ERA
+f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
+#EXTINF:-1, group-title="Elcano.top",F1 TV 55 | Carlos Sainz | Williams --> NEW ERA
+bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 1 --> NEW ERA
+d59e1e43684d27f24348ccd21754b7a438826b42
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 2 --> NEW ERA
+11278b69a588c83592ecbf054cfca1fc45542b64
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 3 --> NEW ERA
+fc9a5087ba3749d67de63607f3b29a42446b5fba
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 4 --> NEW ERA
+cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 1 --> NEW ERA
+b30a0318f531cae1233a11e8cda12f4cc39941c3
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 2 --> NEW ERA
+bed372c0cfd3c24090bf8c479719b5765d74be6d
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 3 --> NEW ERA
+5b5e0a59ea2c0ab00189def5927d66d709835d15
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 1 FHD --> NEW ERA
+744d75861b7961ffc785f6f9edc36396fe610695
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 2 FHD --> NEW ERA
+5c406a4af1bb51fdf53bea78e7d7a95b6d1fb9d3
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 3 FHD --> NEW ERA
+8b1f169fa965eb6fccff8cb78590beba84a8ab56
+#EXTINF:-1, group-title="Elcano.top",Gol Play FHD --> NEW ERA
+74398fdfd56c2d440d53206cd1a4d0549a13aa6b
+#EXTINF:-1, group-title="Elcano.top",Teledeporte FHD --> NEW ERA
+3977c21113c3b89d1ee1a2da7ea5d41769b133f9
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD (SAT) --> NEW ERA
+46a672a4dfc910eebcf869d48a2efec2af1b54d7
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF FHD --> NEW ERA
+6b3989747ca94e5d75875a97b4ed843d1a8d43bc
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF 2 FHD --> NEW ERA
+455735de568bcf97bbbd1ddf3f7d173a62a159f2
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR SERIES FHD --> NEW ERA
+580ea2fdb0bd52db7877648cbd3a586ff4677217
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR CLASICOS FHD --> NEW ERA
+a6cade7fbdee40e60808ec0e568f7668d390b4e2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
+94054b2e5e330bfdec93b63db5bbe42d15c3fd88
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD --> NEW ERA
+555e59eafc481f9bace87064ec0a2e1cbff35c46
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
+f51ea08b180c4d916a9cb9f33049cd9644284641
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+a6592d8203205ed4156d557cf7e89cd171a0e3cd
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+4b445a510e487162cb4e8dd76db4f205b61d5584
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD --> NEW ERA
+a2737f92238d98040d7c6a1866156bf31c5677dd
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 4 FHD --> NEW ERA
+525c14ea1d5cc446a1c6b6ce3c5d68f2e5060b50
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
+29762a55736038653c9de6b5c1ef15c93faf9c6d
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA
+4c30a8d91113a5844f4e169bf99a99e1cb8aa309
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 7 FHD --> NEW ERA
+1bedb890da11e72038914a13187ea50929c9aec0
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 8 FHD --> NEW ERA
+5e1b4b2babaa473633cf1cd845ead7ff6b6fe0e7
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 9 FHD --> NEW ERA
+38c6320b298c093badbc10fd130dde90d64bc092
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 10 FHD --> NEW ERA
+d702abb3ed56ba7fa35e63daa9f6f14936a75792
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 11 FHD --> NEW ERA
+2a489907edaf1275e2209e5a4fed9c19e6798463
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 12 FHD --> NEW ERA
+c098f002d0d35baca4baf597d3ef567d68ee48c8
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 13 FHD --> NEW ERA
+548ea66bb8e4663a5bf0d2dede22d353f3994787
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 14 SD --> NEW ERA
+28e7c2f22073b01b664f795ed8ba638c4d654f03
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 15 SD --> NEW ERA
+4615b5519344eb343b53c07ee74cbea7f08b2ed0
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 16 SD --> NEW ERA
+399d7931525f0868c706e1c1dc040cef0d44cae9
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 17 SD --> NEW ERA
+35b0f9dd56626c3e009afe79f6507ec06e284c50
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (SAT) --> NEW ERA
+08bf74b427c432b974712d1d950eacaa513287e5
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa --> NEW ERA
+76eaa5f815461cac46700b5313b84d363297871b
+#EXTINF:-1, group-title="Elcano.top",M+ SuperCopa del Rey FHD --> NEW ERA
+bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD --> NEW ERA
+86541e760681d3f51b4e9f7b4b3997beb38307b0
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD (SAT) --> NEW ERA
+6e7ac91952e5c8f45d38c4b1669221bed4800813
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD --> NEW ERA
+e954376315de5608543ff24982af6e682e669af2
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 2 FHD --> NEW ERA
+96c4350d8548d40574f70c51b1469e32de756c0a
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 3 FHD --> NEW ERA
+95fb628a3503375c0f5cbf6522f37227993bafce
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD --> NEW ERA
+b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD --> NEW ERA
+20e01f934e60fe20feac8e14806cce08a2a2bf43
+#EXTINF:-1, group-title="Elcano.top",DAZN 2 FHD --> NEW ERA
+c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1, group-title="Elcano.top",DAZN 3 FHD --> NEW ERA
+4a917dd906465938400c6968e707fe2a768c5c05
+#EXTINF:-1, group-title="Elcano.top",DAZN 4 FHD --> NEW ERA
+1b35844ac5f1ca48cbf760c7ed425078e7138aba
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD (SAT) --> NEW ERA
+535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD --> NEW ERA
+a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1, group-title="Elcano.top",#VAMOS ELLAS  FHD --> NEW ERA
+1b265fcd2d4ebeeb5516f838d175a8818e04e298
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 1 FHD --> NEW ERA
+1d735b29ca242360ffe84c677cc02a3817311960
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 1 FHD --> NEW ERA
+a9f8efad7aa5cd61ddd07f6c3575aed7aa553f49
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 2 FHD --> NEW ERA
+87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD --> NEW ERA
+43daa66ed37acb82c3b3cd5e597428d23b9d2b88
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 2 FHD --> NEW ERA
+26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1, group-title="Elcano.top",M+ ACCION FHD --> NEW ERA
+4589a5762f6b3be7e290b48ea11c0eac8c18884b
+#EXTINF:-1, group-title="Elcano.top",M+ PLUS 2 FHD --> NEW ERA
+6337ce87035e8790c1146719725d57739f0a0fb2
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 3 FHD  --> NEW ERA
+17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 4 FHD --> NEW ERA
+6a4145f8994fcff2ea581c89d1cf25dfac48c822
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 5 HD --> NEW ERA
+42af19430acd9c4198a4649ad4017a1a9c3e39fe
+#EXTINF:-1, group-title="Elcano.top",UFC Fight Pass --> NEW ERA
+3048b9c384eaf16734c337c08aabc50ea3e6c5e4
+#EXTINF:-1, group-title="Elcano.top",NBA TV --> NEW ERA
+59377bc73bedf81c5f20a327e09e5fc5f76bdc5f
+#EXTINF:-1, group-title="Elcano.top",NBA NETWORK --> NEW ERA
+d6a01276e7b5e533ebb7f03f825a459a2ee7aef0
+#EXTINF:-1, group-title="Elcano.top",LA 1 FHD --> NEW ERA
+dc913528dfdfdba2d58dfd817bdc1610ab236c4e
+#EXTINF:-1, group-title="Elcano.top",LA 2 FHD --> NEW ERA
+40fad5c4ddb3b99c99674bc22a82fc4d90ec669d
+#EXTINF:-1, group-title="Elcano.top",ANTENA 3 FHD --> NEW ERA
+a90b3dfd3fd5a84f6a7d270f19fb8dfade0b3c0b
+#EXTINF:-1, group-title="Elcano.top",CUATRO FHD --> NEW ERA
+a53ebebd85c554af42f752595cb7c9c32255c0f4
+#EXTINF:-1, group-title="Elcano.top",TELECINCO FHD --> NEW ERA
+3e73fe77d956b07ff233cdb3b89966fae33391e6
+#EXTINF:-1, group-title="Elcano.top",LA SEXTA FHD --> NEW ERA
+11a75922c4a1983ad3a4936ca9e16e889daec37b
+#EXTINF:-1, group-title="Elcano.top",M+ PLUS FHD --> NEW ERA
+a6c4e14f373adaf466e9a335f86f604444d059b5
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV FHD --> NEW ERA
+714e36c758444ec594660149666dc7b642ceb030
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV2 HD --> NEW ERA
+11b2efc1062a8e0096c923bef49e9cbf5ca92db8
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV 3 FHD --> NEW ERA
+99be70a8d6fd9eb4cc3980236cab4f2cfc62c909
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV4 FHD --> NEW ERA
+0829094f216f639b2ac2d00b6cccce6585de6c7b
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV5 FHD --> NEW ERA
+061f42fcaa7632fb0a889272a731036d033cddf5
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA 2 FHD (*) --> NEW ERA
+0a54d530717aa50cb65672a92efa5948286e492c
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 BAR FHD (*) --> NEW ERA
+3709d3c2005ba9b407c8babbdaa2439cbe8242ed
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD (*) --> NEW ERA
+16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD (*) --> NEW ERA
+719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2 FHD (*) --> NEW ERA
+bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1, group-title="Elcano.top",DAZN 3 FHD (*) --> NEW ERA
+eab9da2d81938c22221ee2043bd6f42691116b6d
+#EXTINF:-1, group-title="Elcano.top",DAZN 4 FHD (*) --> NEW ERA
+ce11e4e1a141f5d9538ad0cce452bfc317032ed5
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+e5c3a8445064b51c99e62abd01a2ba015c914278
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+87fbb0ddc5920b1953741b99c63f0fd0e5f94814
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+6cd53fbbf4e1cbe3e8d794ed3ffd26854af600b2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+c330d19436e5b56b29f3de4c1df5b5eb732d247d
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+2dc7b50512b2038cdef3198afdad6a825a9b6a32
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+d6b1a6748c90eff83989514bf6bf010c3b87d470
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 4 FHD (*) --> NEW ERA
+60b2c4ca8dc8f29db0ef7d94c447e092e8b022b2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 5 FHD (*) --> NEW ERA
+7e0adcb774f48929ce0581bc8b7b327d0bacc1cb
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (*) --> NEW ERA
+9fd0ad6591be70c5c31b7659162cf67ae2dff16e
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (*) --> NEW ERA
+440fc0139d2ea66c7680b6df85512eaf4dee446a
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD (*) --> NEW ERA
+0569aee1644145a026c120019024a61398ecbd97
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD 2 (*) --> NEW ERA
+c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD (*) --> NEW ERA
+62662d67c3c616acceb09d88600dcddb4d59af4a
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD (*) --> NEW ERA
+c7e5f55d71e02b43f18b22b07a294bdf87822aa4
+#EXTINF:-1, group-title="Elcano.top",RALLY TV --> NEW ERA III (Solo eventos)
+1a9085a7b8aa402f317fb86f7243f3736770b325
+#EXTINF:-1, group-title="Elcano.top",M+ LALIGA --> NEW ERA III
+7c70daff87373a903d92490ad3dc811723969e08
+#EXTINF:-1, group-title="Elcano.top",DAZN LALIGA --> NEW ERA III
+a5144874f66a0872fd0b5a484cd426eb7d8eaa26
+#EXTINF:-1, group-title="Elcano.top",M. Deportes HD --> NEW LOOP
+acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1, group-title="Elcano.top",M. Golf HD --> NEW LOOP
+872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga --> NEW LOOP
+cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1, group-title="Elcano.top",M. Liga de Campeones --> NEW LOOP
+e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, group-title="Elcano.top",DAZN1 --> NEW LOOP
+d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1, group-title="Elcano.top",DAZN2 --> NEW LOOP
+b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1, group-title="Elcano.top",DAZN3 --> NEW LOOP
+d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1, group-title="Elcano.top",DAZN4 --> NEW LOOP
+7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1, group-title="Elcano.top",Eurosport 1 HD --> NEW LOOP
+cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1, group-title="Elcano.top",Eurosport 1 hd --> NEW LOOP
+23a4937f1484b435af132dbfb3e8fd3aefc9baad
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Arena [UK] --> NEW LOOP
+d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Cricket [UK] --> NEW LOOP
+6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Football [UK] --> NEW LOOP
+8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Main Event [UK] --> NEW LOOP
+eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1, group-title="Elcano.top",AutoMotorSport HD --> NEW LOOP
+6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1, group-title="Elcano.top",Canal Motor (720p) --> NEW LOOP
+31ef168d43c7cd04e672475f7ec33b99b9fe5a96
+#EXTINF:-1, group-title="Elcano.top",Motors TV HD --> NEW LOOP
+8d475e2688519f2c602687b71be54cedbaef9e6b
+#EXTINF:-1, group-title="Elcano.top",Motorvision TV --> NEW LOOP
+fffaa64d41e500250064181762d510d513137410
+#EXTINF:-1, group-title="Elcano.top",Retrovision Motor --> NEW LOOP
+b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
+#EXTINF:-1, group-title="Elcano.top",SuperTennis HD --> NEW LOOP
+b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1, group-title="Elcano.top",Tennis Channel (UK) (720p) --> NEW LOOP
+52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1, group-title="Elcano.top",Tennis Channel HD --> NEW LOOP
+039fae21c9e7e5214d3d898cba80863e37e623ac
+
+
+
+
+
+
+
+
