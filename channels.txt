@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Bar FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Bar FHD --> NEW ERA II
 acestream://580fa1e7623d514a94e8585f90c42eda09d5e4f1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA II
 acestream://54470f2db47abeff1f809a0a7262e6f7d7796a4e
